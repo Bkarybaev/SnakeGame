@@ -23,7 +23,7 @@ public class SnakeGame extends JFrame {
 }
 
 class GamePanel extends JPanel implements ActionListener {
-    private final int B_WIDTH = 400;
+    private final int B_WIDTH = 500;
     private final int B_HEIGHT = 400;
     private final int DOT_SIZE = 10;
     private final int ALL_DOTS = 100;
